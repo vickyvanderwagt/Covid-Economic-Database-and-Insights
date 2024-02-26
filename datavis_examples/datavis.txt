@@ -1,0 +1,1 @@
+Three visualizations made from queries to highlight the perspective and utility of the data in this database.
