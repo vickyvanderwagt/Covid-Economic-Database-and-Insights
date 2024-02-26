@@ -1,0 +1,4 @@
+# Install the Black library and then call the black function on the COVID_Impacts.ipynb file before commiting
+#  pip install "black[jupyter]"
+(base) C:\Users\user> cd repo_location
+(base) C:\Users\user> black COVID_Impacts.ipynb
