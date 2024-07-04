@@ -1,5 +1,5 @@
 # Covid Economic Database and Insights
-## Class: ADS 507 - Data Science with Cloud Computing at University of San Diego
+Class: ADS 507 - Data Science with Cloud Computing at University of San Diego
 
 ## Data Scope and Purpose 
 The COVID-19 pandemic has altered many aspects of life around the globe. In this pipeline, data from various sources are combined as a way to explore impacts of COVID on health, education, and the economy (GDP). Thirty-one countries can be compared on various metrics. The data is called from APIs that store historical COVID data, in addition to two static CSV files, one on COVID impacts on education and one on historical GDP and GDP forecasts. These files are located in the repository.
